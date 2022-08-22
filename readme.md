@@ -1,4 +1,6 @@
-# Three.js Journey
+## Try it out: https://mariussd.github.io/galaxy-generator/
+
+# Made with Three.js Journey
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
