@@ -1,8 +1,8 @@
 ## Try it out: https://mariussd.github.io/galaxy-generator/
 
-# Made with Three.js Journey
+### Made with [Three.js Journey](https://threejs-journey.com/)
 
-## Setup
+### Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
